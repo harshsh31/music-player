@@ -1,0 +1,24 @@
+node_modules
+
+public
+/**/**.js
+/**/**.js.**
+*.d.ts
+!.eslintrc.js
+tsconfig.tsbuildinfo
+cypress/videos
+cypress/screenshots
+# Coverage directory used by tools like istanbul
+coverage
+yarn-error.log*
+.DS_Store
+dist
+config/config.json
+.secrets
+
+.idea
+package-lock.json
+tsconfig.tsbuildinfo
+.npmrc
+target
+.DS_Store
